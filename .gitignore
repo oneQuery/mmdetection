@@ -126,3 +126,7 @@ work_dirs/
 *.zip
 outputs/
 ~/
+
+# By-products by tutorials
+rtmdet_tiny_8xb32-300e_coco.py
+cat_work_dir/

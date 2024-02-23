@@ -1,0 +1,2 @@
+# ./tools/dist_train.sh configs/mm_grounding_dino/grounding_dino_swin-t_finetune_8xb4_20e_cat.py 2  # Tutorial with cat detection dataset
+./tools/dist_train.sh configs/mm_grounding_dino/grounding_dino_swin-l_finetune_person.py 2  
